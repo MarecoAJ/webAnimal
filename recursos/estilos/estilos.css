@@ -1,0 +1,99 @@
+#tituloWeb{
+  display: inline;
+  font-size: 350%;
+}
+h3, a, p{
+    font-family:'Luxurious Roman', cursive;
+}
+h1, h2{
+  font-family: Cambria;
+}
+footer {
+  margin: 0%;
+  padding: 0%;
+}
+#footerPrincipal{
+  width: 100%;
+  margin: 0%;
+  padding-top: 10%;
+  text-align: center;
+}
+#aFooterVolver{
+  width: 15%;
+  margin-left: 42.5%;
+  text-align: center;
+}
+#pFooterCopy{
+  font-family: monospace;
+}
+#divInicio{
+  margin: 0px;
+  padding-right: 50%;
+  width: 50%;
+}
+#divGatos{
+  margin: 0px;
+  padding-left: 50%;
+  width: 50%;
+}
+#divLoros{
+  margin: 0px;
+  padding-right: 50%;
+  width: 50%;
+}
+#divBuhos{
+  margin: 0px;
+  padding-left: 50%;
+  width: 50%;
+}
+#divAbejas{
+  margin: 0px;
+  padding-right: 50%;
+  width: 50%;
+}
+.divLogoWeb{
+  display: inline-block;
+  width: 15%;
+  margin: 0%;
+  padding: 0%;
+}
+figure{
+  margin: 0%;
+  padding: 0%;
+}
+.divTituloWeb{
+  display: inline-block;
+  margin: 0%;
+  padding: 0%;
+  width: 84.6%;
+}
+.principalHeaderBlog{
+  margin: 0%;
+  padding: 0%;
+}
+.imgFotoBlog{
+  width: 100%;
+}
+#principalNavBlog{
+  padding-top: 1.5%;
+  padding-bottom: 1.5%;
+}
+.navDivAmenu{
+  display: inline;
+  margin-left: 2%;
+  margin-right: 2%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+}
+.navDivAmenu a{
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  font-size: 150%;
+}
+body{
+  background-image: url("/recursos/img/fondoNaturalezaVectorial.svg");
+  background-repeat: repeat-x;
+  background-position: left top;
+  background-attachment: fixed;
+}
