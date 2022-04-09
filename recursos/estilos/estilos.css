@@ -1,3 +1,9 @@
+body{
+  background-image: url("/recursos/img/fondoNaturalezaVectorial.svg");
+  background-repeat: repeat-x;
+  background-position: left top;
+  background-attachment: fixed;
+}
 #tituloWeb{
   display: inline;
   font-size: 350%;
@@ -70,6 +76,7 @@ figure{
 .principalHeaderBlog{
   margin: 0%;
   padding: 0%;
+  
 }
 .imgFotoBlog{
   width: 100%;
@@ -90,10 +97,4 @@ figure{
   color: black;
   text-align: center;
   font-size: 150%;
-}
-body{
-  background-image: url("/recursos/img/fondoNaturalezaVectorial.svg");
-  background-repeat: repeat-x;
-  background-position: left top;
-  background-attachment: fixed;
 }
