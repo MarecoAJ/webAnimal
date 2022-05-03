@@ -13,6 +13,7 @@ body{
   height: 100%;
   padding: 0px;
   margin: 0px;
+  padding-top: 1.5%;
 }
 h3, a, p{
     font-family:'Luxurious Roman', cursive;
@@ -88,22 +89,25 @@ footer {
 #principalNavBlog{
   height: 50%;
   width: 85%;
-  margin-left: 15%;
+  margin-left: 70%;
 }
 .navDivAmenu{
   display: inline-block;
-  margin-left: 2%;
-  margin-right: 2%;
-  padding-left: 2.5%;
-  padding-right: 2.5%;
+  margin-left: 0.5%;
+  margin-right: 0.5%;
 }
 .navDivAmenu a{
   text-decoration: none;
   color: black;
   text-align: center;
-  font-size: 150%;
+  font-size: 100%;
+}
+a:hover {
+  color: #08D475;
 }
 .logoWeb{
-  height: 100%;
-  width: 100%;
+  padding-top: 5%;
+  padding-left: 15%;
+  height: 75%;
+  width: 75%;
 }
