@@ -16,7 +16,8 @@ body{
   padding-top: 1.5%;
 }
 h3, a, p{
-    font-family:'Luxurious Roman', cursive;
+  font-family:'Luxurious Roman', cursive;
+  text-decoration: none;
 }
 h1, h2{
   font-family: Cambria;
@@ -30,6 +31,7 @@ footer {
   margin: 0%;
   padding-top: 10%;
   text-align: center;
+  background-color: #f5f5f5;
 }
 #aFooterVolver{
   width: 15%;
@@ -110,4 +112,25 @@ a:hover {
   padding-left: 15%;
   height: 75%;
   width: 75%;
+}
+.divFooterContactos{
+  width: 50%;
+  height: 100%;
+  display: inline-block;
+  float: left;
+}
+.divGmaps{
+  width: 50%;
+  height: 100%;
+  display: inline-block;
+}
+.divFooterContenido{
+  width: 100%
+  height:60px;
+  margin: 0px;
+  padding: 0px;
+}
+iframe{
+  width: 80%;
+  height: 100%;
 }
